@@ -14,7 +14,7 @@
 
 ---
 
-### Estado actual
+### Estado actual(Casada)
 
 > Instalado: motivación (beta)  
 > Error: conocimientos de programación no encontrados  
