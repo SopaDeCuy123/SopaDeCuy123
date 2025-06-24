@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://github.com/SopaDeCuy123/SopaDeCuy123/blob/main/HACKER%20PRO.png" />
+</p>
 <h1 align="center">🥸 Hecho en Perú :Sopa De Cuy</h1>
 <p align="center"><em>“Aprendiendo a programar... mientras mi mamá me golpea.☠️”</em></p>
 
