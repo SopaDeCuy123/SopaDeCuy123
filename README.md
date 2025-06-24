@@ -1,5 +1,4 @@
-## hole👋
-# SopaDeCuy123
+
 <h1 align="center">🥸 Hecho en Perú :Sopa De Cuy</h1>
 <p align="center"><em>“Aprendiendo a programar... mientras mi mamá me golpea.☠️”</em></p>
 
